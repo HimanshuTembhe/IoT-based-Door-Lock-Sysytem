@@ -25,7 +25,6 @@ Welcome to the Smart Door Lock Security System project repository! This open-sou
 - RFID MFRC522
 - Single Channel 5V Relay Module
 - 12V Solenoid Lock
-- LM2596 Buck Converter
 - Buzzer Module
   
 # How to Get Started:
